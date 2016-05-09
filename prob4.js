@@ -32,3 +32,6 @@ for (i = 0; i < nums.length; i++) {
 
 palindromes.sort(function(a, b){return a-b});
 console.log(palindromes[palindromes.length -1]);
+
+//test
+//123
